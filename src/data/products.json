@@ -1,0 +1,461 @@
+[
+  {
+    "id": "SP001",
+    "slug": "khan-len",
+    "name": "Khăn len",
+    "price": 250000,
+    "compareAtPrice": 312000,
+    "category": "Khăn len",
+    "categorySlug": "khan-len",
+    "description": "Khăn len mint đan tay từ sợi len mềm, dài khoảng 160cm, ấm mà không gây ngứa. Nhận thêu tên theo yêu cầu.",
+    "images": [
+      "/images/products/khan-len-1.webp"
+    ],
+    "stock": 20,
+    "featured": true,
+    "tags": [
+      {
+        "name": "Sinh nhật",
+        "slug": "sinh-nhat"
+      },
+      {
+        "name": "Noel",
+        "slug": "noel"
+      },
+      {
+        "name": "20/10",
+        "slug": "20-10"
+      }
+    ],
+    "sizes": [],
+    "rating": 4.9,
+    "sold": 238
+  },
+  {
+    "id": "SP002",
+    "slug": "khan-len-ke-soc-kem",
+    "name": "Khăn len kẻ sọc kem",
+    "price": 270000,
+    "compareAtPrice": null,
+    "category": "Khăn len",
+    "categorySlug": "khan-len",
+    "description": "Khăn len kẻ sọc hai màu kem – nâu, đan mũi gân dày dặn, hợp mùa đông Hà Nội.",
+    "images": [
+      "/images/products/khan-len-ke-soc-kem-1.webp"
+    ],
+    "stock": 15,
+    "featured": false,
+    "tags": [
+      {
+        "name": "Noel",
+        "slug": "noel"
+      },
+      {
+        "name": "Sinh nhật",
+        "slug": "sinh-nhat"
+      }
+    ],
+    "sizes": [],
+    "rating": 4.8,
+    "sold": 121
+  },
+  {
+    "id": "SP003",
+    "slug": "khan-len-hong-phan",
+    "name": "Khăn len hồng phấn",
+    "price": 250000,
+    "compareAtPrice": null,
+    "category": "Khăn len",
+    "categorySlug": "khan-len",
+    "description": "Tông hồng phấn ngọt ngào, món quà Valentine dịu dàng cho người ấy.",
+    "images": [
+      "/images/products/tam-khan-len-hong-phan.svg"
+    ],
+    "stock": 12,
+    "featured": false,
+    "tags": [
+      {
+        "name": "Valentine",
+        "slug": "valentine"
+      },
+      {
+        "name": "8/3",
+        "slug": "8-3"
+      }
+    ],
+    "sizes": [],
+    "rating": 4.9,
+    "sold": 96
+  },
+  {
+    "id": "SP004",
+    "slug": "khan-len-do-ruou",
+    "name": "Khăn len đỏ rượu",
+    "price": 280000,
+    "compareAtPrice": null,
+    "category": "Khăn len",
+    "categorySlug": "khan-len",
+    "description": "Màu đỏ rượu ấm áp, đan mũi vặn thừng nổi, sang trọng cho mùa Noel.",
+    "images": [
+      "/images/products/tam-khan-len-do-ruou.svg"
+    ],
+    "stock": 8,
+    "featured": false,
+    "tags": [
+      {
+        "name": "Noel",
+        "slug": "noel"
+      },
+      {
+        "name": "Valentine",
+        "slug": "valentine"
+      }
+    ],
+    "sizes": [],
+    "rating": 5,
+    "sold": 64
+  },
+  {
+    "id": "SP005",
+    "slug": "khan-len-xam-khoi",
+    "name": "Khăn len xám khói",
+    "price": 250000,
+    "compareAtPrice": null,
+    "category": "Khăn len",
+    "categorySlug": "khan-len",
+    "description": "Màu xám khói dễ phối đồ, hợp tặng bố, thầy giáo hay bạn trai.",
+    "images": [
+      "/images/products/tam-khan-len-xam-khoi.svg"
+    ],
+    "stock": 0,
+    "featured": false,
+    "tags": [
+      {
+        "name": "Sinh nhật",
+        "slug": "sinh-nhat"
+      },
+      {
+        "name": "20/10",
+        "slug": "20-10"
+      }
+    ],
+    "sizes": [],
+    "rating": 4.7,
+    "sold": 85
+  },
+  {
+    "id": "SP006",
+    "slug": "gau-len",
+    "name": "Gấu len",
+    "price": 180000,
+    "compareAtPrice": null,
+    "category": "Gấu bông len",
+    "categorySlug": "gau-bong-len",
+    "description": "Gấu len cao 20cm đan tay, nhồi bông mềm, có thể thêu tên trên áo gấu.",
+    "images": [
+      "/images/products/tam-gau-len.svg"
+    ],
+    "stock": 25,
+    "featured": true,
+    "tags": [
+      {
+        "name": "Sinh nhật",
+        "slug": "sinh-nhat"
+      },
+      {
+        "name": "Valentine",
+        "slug": "valentine"
+      }
+    ],
+    "sizes": [],
+    "rating": 4.8,
+    "sold": 156
+  },
+  {
+    "id": "SP007",
+    "slug": "tho-len-tai-dai",
+    "name": "Thỏ len tai dài",
+    "price": 190000,
+    "compareAtPrice": null,
+    "category": "Gấu bông len",
+    "categorySlug": "gau-bong-len",
+    "description": "Thỏ len tai dài màu kem, ôm vừa tay, món quà dễ thương cho bé và bạn gái.",
+    "images": [
+      "/images/products/tam-tho-len-tai-dai.svg"
+    ],
+    "stock": 18,
+    "featured": false,
+    "tags": [
+      {
+        "name": "Sinh nhật",
+        "slug": "sinh-nhat"
+      },
+      {
+        "name": "8/3",
+        "slug": "8-3"
+      }
+    ],
+    "sizes": [],
+    "rating": 4.9,
+    "sold": 102
+  },
+  {
+    "id": "SP008",
+    "slug": "cap-gau-len-doi",
+    "name": "Cặp gấu len đôi",
+    "price": 340000,
+    "compareAtPrice": 380000,
+    "category": "Gấu bông len",
+    "categorySlug": "gau-bong-len",
+    "description": "Cặp gấu len cô dâu – chú rể, thêu tên hai bạn, quà cưới và quà Valentine ý nghĩa.",
+    "images": [
+      "/images/products/tam-cap-gau-len-doi.svg"
+    ],
+    "stock": 10,
+    "featured": false,
+    "tags": [
+      {
+        "name": "Valentine",
+        "slug": "valentine"
+      }
+    ],
+    "sizes": [],
+    "rating": 5,
+    "sold": 47
+  },
+  {
+    "id": "SP009",
+    "slug": "gau-len-mini-moc-tui",
+    "name": "Gấu len mini móc túi",
+    "price": 120000,
+    "compareAtPrice": null,
+    "category": "Gấu bông len",
+    "categorySlug": "gau-bong-len",
+    "description": "Gấu len mini cao 10cm, có dây móc treo balo hoặc túi xách.",
+    "images": [
+      "/images/products/tam-gau-len-mini-moc-tui.svg"
+    ],
+    "stock": 30,
+    "featured": false,
+    "tags": [
+      {
+        "name": "Sinh nhật",
+        "slug": "sinh-nhat"
+      },
+      {
+        "name": "Noel",
+        "slug": "noel"
+      }
+    ],
+    "sizes": [],
+    "rating": 4.8,
+    "sold": 133
+  },
+  {
+    "id": "SP010",
+    "slug": "khan-tay",
+    "name": "Khăn tay",
+    "price": 60000,
+    "compareAtPrice": 75000,
+    "category": "Khăn tay",
+    "categorySlug": "khan-tay",
+    "description": "Khăn tay cotton viền len, thêu tên tối đa 12 ký tự, quà tặng thầy cô ý nghĩa.",
+    "images": [
+      "/images/products/tam-khan-tay.svg"
+    ],
+    "stock": 50,
+    "featured": true,
+    "tags": [
+      {
+        "name": "20/10",
+        "slug": "20-10"
+      },
+      {
+        "name": "8/3",
+        "slug": "8-3"
+      }
+    ],
+    "sizes": [],
+    "rating": 5,
+    "sold": 342
+  },
+  {
+    "id": "SP011",
+    "slug": "khan-tay-theu-hoa-cuc",
+    "name": "Khăn tay thêu hoa cúc",
+    "price": 65000,
+    "compareAtPrice": null,
+    "category": "Khăn tay",
+    "categorySlug": "khan-tay",
+    "description": "Khăn tay thêu hoa cúc nhỏ ở góc, gói trong hộp giấy kraft.",
+    "images": [
+      "/images/products/tam-khan-tay-theu-hoa-cuc.svg"
+    ],
+    "stock": 40,
+    "featured": false,
+    "tags": [
+      {
+        "name": "8/3",
+        "slug": "8-3"
+      },
+      {
+        "name": "20/10",
+        "slug": "20-10"
+      }
+    ],
+    "sizes": [],
+    "rating": 4.9,
+    "sold": 188
+  },
+  {
+    "id": "SP012",
+    "slug": "set-3-khan-tay-pastel",
+    "name": "Set 3 khăn tay pastel",
+    "price": 165000,
+    "compareAtPrice": 195000,
+    "category": "Khăn tay",
+    "categorySlug": "khan-tay",
+    "description": "Bộ 3 khăn tay màu mint, hồng, vàng bơ — thêu tên hoặc chữ cái đầu.",
+    "images": [
+      "/images/products/tam-set-3-khan-tay-pastel.svg"
+    ],
+    "stock": 20,
+    "featured": false,
+    "tags": [
+      {
+        "name": "20/10",
+        "slug": "20-10"
+      },
+      {
+        "name": "Sinh nhật",
+        "slug": "sinh-nhat"
+      }
+    ],
+    "sizes": [],
+    "rating": 4.9,
+    "sold": 74
+  },
+  {
+    "id": "SP013",
+    "slug": "moc-khoa",
+    "name": "Móc khóa",
+    "price": 45000,
+    "compareAtPrice": null,
+    "category": "Móc khóa",
+    "categorySlug": "moc-khoa",
+    "description": "Móc khóa len hình trái tim, thêu chữ cái hoặc tên ngắn theo yêu cầu.",
+    "images": [
+      "/images/products/tam-moc-khoa.svg"
+    ],
+    "stock": 60,
+    "featured": true,
+    "tags": [
+      {
+        "name": "Valentine",
+        "slug": "valentine"
+      },
+      {
+        "name": "Sinh nhật",
+        "slug": "sinh-nhat"
+      }
+    ],
+    "sizes": [],
+    "rating": 4.9,
+    "sold": 410
+  },
+  {
+    "id": "SP014",
+    "slug": "moc-khoa-cay-thong",
+    "name": "Móc khóa cây thông",
+    "price": 50000,
+    "compareAtPrice": null,
+    "category": "Móc khóa",
+    "categorySlug": "moc-khoa",
+    "description": "Móc khóa len cây thông xanh, có chuông nhỏ, quà Noel xinh xắn.",
+    "images": [
+      "/images/products/tam-moc-khoa-cay-thong.svg"
+    ],
+    "stock": 45,
+    "featured": false,
+    "tags": [
+      {
+        "name": "Noel",
+        "slug": "noel"
+      }
+    ],
+    "sizes": [],
+    "rating": 4.8,
+    "sold": 152
+  },
+  {
+    "id": "SP015",
+    "slug": "moc-khoa-hoa-tulip",
+    "name": "Móc khóa hoa tulip",
+    "price": 55000,
+    "compareAtPrice": null,
+    "category": "Móc khóa",
+    "categorySlug": "moc-khoa",
+    "description": "Móc khóa hoa tulip len, nhiều màu để chọn, quà 8/3 và 20/10.",
+    "images": [
+      "/images/products/tam-moc-khoa-hoa-tulip.svg"
+    ],
+    "stock": 40,
+    "featured": false,
+    "tags": [
+      {
+        "name": "8/3",
+        "slug": "8-3"
+      },
+      {
+        "name": "20/10",
+        "slug": "20-10"
+      }
+    ],
+    "sizes": [],
+    "rating": 4.9,
+    "sold": 203
+  },
+  {
+    "id": "SP016",
+    "slug": "moc-khoa-meo-len",
+    "name": "Móc khóa mèo len",
+    "price": 50000,
+    "compareAtPrice": null,
+    "category": "Móc khóa",
+    "categorySlug": "moc-khoa",
+    "description": "Móc khóa mèo len mặt tròn, đính hạt mắt an toàn.",
+    "images": [
+      "/images/products/tam-moc-khoa-meo-len.svg"
+    ],
+    "stock": 35,
+    "featured": false,
+    "tags": [
+      {
+        "name": "Sinh nhật",
+        "slug": "sinh-nhat"
+      }
+    ],
+    "sizes": [],
+    "rating": 4.8,
+    "sold": 117
+  },
+  {
+    "id": "SP017",
+    "slug": "moc-khoa-gau-truc",
+    "name": "Móc khóa gấu trúc",
+    "price": 10000,
+    "compareAtPrice": null,
+    "category": "Móc khóa",
+    "categorySlug": "moc-khoa",
+    "description": "Móc khóa hình gấu trúc dễ thương, đáng yêu",
+    "images": [
+      "/images/products/tam-moc-khoa-gau-truc.svg"
+    ],
+    "stock": 10,
+    "featured": false,
+    "tags": [],
+    "sizes": [],
+    "rating": null,
+    "sold": null
+  }
+]
