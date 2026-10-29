@@ -48,7 +48,7 @@ export const shop = {
   // Ảnh trang trí: bỏ ảnh vào public/images/site/ rồi ghi đường dẫn, ví dụ "/images/site/hero-1.jpg".
   // Để "" thì hiện khối màu kèm chú thích như bản thiết kế.
   siteImages: {
-    hero: ["", "", ""], // 3 slide đầu trang, khung 1366 × 658
+    hero: ["/images/site/hero-1.png", "/images/site/hero-2.png", "/images/site/hero-3.png"], // 3 slide đầu trang, khung 1366 × 658
     categories: {} as Record<string, string>, // ví dụ { "khan-len": "/images/site/dm-khan-len.jpg" }
     occasions: {} as Record<string, string>, // ví dụ { "sinh-nhat": "/images/site/qua-sinh-nhat.jpg" }
     about: "", // xưởng / góc làm việc
